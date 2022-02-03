@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Types>
+    <Type>
+        <Name>System.Uri</Name>
+        <Members>
+            <MemberSet>
+                <Name>PSStandardMembers</Name>
+                <Members>
+                    <PropertySet>
+                        <Name>DefaultDisplayPropertySet</Name>
+                        <ReferencedProperties>
+                            <Name>Scheme</Name>
+                            <Name>Host</Name>
+                            <Name>Port</Name>
+                            <Name>AbsoluteUri</Name>
+                            <Name>IsFile</Name>
+                        </ReferencedProperties>
+                    </PropertySet>
+                    137Formatting tables
+                </Members>
+            </MemberSet>
+        </Members>
+    </Type>
+</Types>
